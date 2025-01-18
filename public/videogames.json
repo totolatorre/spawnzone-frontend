@@ -1,0 +1,202 @@
+[
+    { 
+      "_id": 1,
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "description": "Un'avventura epica nel regno di Hyrule pieno di esplorazione e combattimenti.",
+      "category": "action",
+      "trending": true,
+      "coverImage": "videogame-1.png",
+      "oldPrice": 59.99,
+      "newPrice": 49.99
+    },
+    { 
+      "_id": 2,
+      "title": "Minecraft",
+      "description": "Un gioco sandbox che permette costruzioni e avventure illimitate.",
+      "category": "platform",
+      "trending": true,
+      "coverImage": "videogame-2.png",
+      "oldPrice": 26.95,
+      "newPrice": 19.99
+    },
+    { 
+      "_id": 3,
+      "title": "Grand Theft Auto V",
+      "description": "Un gioco open-world che combina una storia emozionante con missioni uniche.",
+      "category": "action",
+      "trending": false,
+      "coverImage": "videogame-3.png",
+      "oldPrice": 69.99,
+      "newPrice": 29.99
+    },
+    { 
+      "_id": 4,
+      "title": "Fortnite",
+      "description": "Un popolare battle royale pieno di azione e personalizzazione.",
+      "category": "fps",
+      "trending": true,
+      "coverImage": "videogame-4.png",
+      "oldPrice": 0.00,
+      "newPrice": 0.00
+    },
+    { 
+      "_id": 5,
+      "title": "Red Dead Redemption 2",
+      "description": "Un'epica avventura western ambientata in un mondo open-world vibrante.",
+      "category": "action",
+      "trending": true,
+      "coverImage": "videogame-5.png",
+      "oldPrice": 69.99,
+      "newPrice": 39.99
+    },
+    {  "_id": 6,
+      "title": "Call of Duty: Modern Warfare II",
+      "description": "Sparatorie intense e una storia avvincente in questo sparatutto militare.",
+      "category": "fps",
+      "trending": true,
+      "coverImage": "videogame-6.png",
+      "oldPrice": 69.99,
+      "newPrice": 59.99
+    },
+    { 
+      "_id": 7,
+      "title": "The Witcher 3: Wild Hunt",
+      "description": "Un RPG ambientato in un mondo fantasy ricco di storie e combattimenti.",
+      "category": "rpg",
+      "trending": false,
+      "coverImage": "videogame-7.png",
+      "oldPrice": 39.99,
+      "newPrice": 14.99
+    },
+    { 
+      "_id": 8,
+      "title": "Among Us",
+      "description": "Un gioco multiplayer di deduzione sociale e bluff.",
+      "category": "platform",
+      "trending": false,
+      "coverImage": "videogame-8.png",
+      "oldPrice": 4.99,
+      "newPrice": 3.99
+    },
+    { 
+      "_id": 9,
+      "title": "Elden Ring",
+      "description": "Un RPG d'azione ambientato in un mondo oscuro e misterioso.",
+      "category": "rpg",
+      "trending": true,
+      "coverImage": "videogame-9.png",
+      "oldPrice": 69.99,
+      "newPrice": 59.99
+    },
+    { 
+      "_id": 10,
+      "title": "Super Mario Odyssey",
+      "description": "Un platform 3D colorato con Mario che esplora mondi diversi.",
+      "category": "platform",
+      "trending": false,
+      "coverImage": "videogame-10.png",
+      "oldPrice": 59.99,
+      "newPrice": 49.99
+    },
+    { 
+      "_id": 11,
+      "title": "FIFA 23",
+      "description": "Il celebre gioco di calcio con meccaniche realistiche e squadre aggiornate.",
+      "category": "action",
+      "trending": true,
+      "coverImage": "videogame-11.png",
+      "oldPrice": 69.99,
+      "newPrice": 39.99
+    },
+    { 
+      "_id": 12,
+      "title": "Animal Crossing: New Horizons",
+      "description": "Costruisci e personalizza la tua isola in questo gioco rilassante.",
+      "category": "rpg",
+      "trending": false,
+      "coverImage": "videogame-12.png",
+      "oldPrice": 59.99,
+      "newPrice": 54.99
+    },
+    { 
+      "_id": 13,
+      "title": "Cyberpunk 2077",
+      "description": "Un RPG ambientato in un futuro distopico e tecnologico.",
+      "category": "rpg",
+      "trending": true,
+      "coverImage": "videogame-13.png",
+      "oldPrice": 59.99,
+      "newPrice": 29.99
+    },
+    { 
+      "_id": 14,
+      "title": "League of Legends",
+      "description": "Un popolare gioco di strategia e combattimento in squadre.",
+      "category": "actiob",
+      "trending": true,
+      "coverImage": "videogame-14.png",
+      "oldPrice": 0.00,
+      "newPrice": 0.00
+    },
+    { 
+      "_id": 15,
+      "title": "Overwatch 2",
+      "description": "Uno sparatutto a squadre con eroi unici e abilità speciali.",
+      "category": "fps",
+      "trending": true,
+      "coverImage": "videogame-15.png",
+      "oldPrice": 59.99,
+      "newPrice": 0.00
+    },
+    { 
+      "_id": 16,
+      "title": "Hollow Knight",
+      "description": "Un platform dark fantasy pieno di misteri e combattimenti.",
+      "category": "platform",
+      "trending": false,
+      "coverImage": "videogame-16.png",
+      "oldPrice": 14.99,
+      "newPrice": 9.99
+    },
+    { 
+      "_id": 17,
+      "title": "Pokémon Scarlet and Violet",
+      "description": "Una nuova avventura Pokémon in un mondo aperto.",
+      "category": "rpg",
+      "trending": true,
+      "coverImage": "videogame-17.png",
+      "oldPrice": 59.99,
+      "newPrice": 54.99
+    },
+    { 
+      "_id": 18,
+      "title": "Assassin's Creed Valhalla",
+      "description": "Un'avventura vichinga ricca di combattimenti e esplorazioni.",
+      "category": "action",
+      "trending": false,
+      "coverImage": "videogame-18.png",
+      "oldPrice": 59.99,
+      "newPrice": 34.99
+    },
+    { 
+      "_id": 19,
+      "title": "Sekiro: Shadows Die Twice",
+      "description": "Un RPG d'azione con combattimenti impegnativi e ambientazione giapponese.",
+      "category": "action",
+      "trending": false,
+      "coverImage": "videogame-19.png",
+      "oldPrice": 59.99,
+      "newPrice": 39.99
+    },
+    { 
+      "_id":20,
+      "title": "Fall Guys",
+      "description": "Un divertente gioco multiplayer di competizioni folli.",
+      "category": "platform",
+      "trending": false,
+      "coverImage": "videogame-20.png",
+      "oldPrice": 19.99,
+      "newPrice": 0.00
+    }
+  ]
+  
